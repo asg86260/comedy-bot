@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/bot.js",
+  "engines": {
+    "node": "14.17.3",
+    "npm": "7.10.0"
+  },
   "dependencies": {
     "dotenv": "^10.0.0",
     "nodemon": "^2.0.12",
